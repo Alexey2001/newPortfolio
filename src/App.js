@@ -20,14 +20,14 @@ class App extends React.Component {
       ],
       home: {
         title: 'Be Relentless',
-        subtitle: 'Projects the make a difference',
+        subTitle: 'Projects the make a difference',
         text: 'Checkout my projects below'
       },
       about: {
         title: 'Обо мне',
       },
       contact: {
-        title: 'Let\'s Talk',
+        title: 'Давайте поговорим',
       }
     }
   }
